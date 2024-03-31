@@ -1,6 +1,6 @@
 # ASB-2024
 A repository for projects developed in 'Análise de Sequências Biológicas' (ASB), in context of pursuing a Bioinformatics Degree.
-These are two simple programs for fetching biological sequences from the NCBI (National Center for Biotechnology Information) database using the Entrez API, and they provide a convenient way to retrieve sequences from the NCBI database based on user-specified search queries.
+These are two simple programs for fetching biological sequences from the NCBI (National Center for Biotechnology Information) database using the Entrez API, and they provide a convenient way to retrieve sequences from the NCBI database based on user-specified search queries. If one doesn't work as intended, please try the other.
 
 *******************************************************************
 Feel free to add, contribute to, reproduce, or distribute the program
